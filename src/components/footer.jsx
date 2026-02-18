@@ -5,7 +5,7 @@ function Footer() {
 
         {/* About */}
         <div>
-          <h2 className="text-xl font-semibold text-white mb-3">MyApp</h2>
+          <h2 className="text-xl font-semibold text-white mb-3">MyQuiz</h2>
           <p className="text-sm">
             A simple and efficient platform to manage services and users.
             Built with React & Tailwind CSS.

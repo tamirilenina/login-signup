@@ -12,13 +12,13 @@ function Home({ Name, CollegeName }) {
       <div className="font-sans">
 
         {/* Hero Section */}
-        <section className="bg-blue-900 text-white py-24 text-center px-4">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Welcome to Aditya
+        <section className="bg-gradient-to-r from-indigo-700 via-blue-700 to-indigo-900 text-white py-24">
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center">
+            Welcome to Quiz
           </h1>
 
-          <p className="text-lg text-blue-200 mb-8 max-w-2xl mx-auto">
-            Build fast, modern, and secure web applications using React & Tailwind CSS.
+          <p className="text-lg text-white-200 mb-8 max-w-2xl mx-auto text-center">
+            Online Quiz Application 
           </p>
 
           <div className="flex flex-col items-center gap-6">
