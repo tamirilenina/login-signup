@@ -36,6 +36,11 @@ function Header() {
           <Link to="/contact" className="text-gray-700 font-medium hover:text-blue-600 transition duration-300">
             Contact
           </Link>
+          <Link to="/product" className="text-gray-700 font-medium hover:text-blue-600 transition duration-300">
+            Product
+          </Link>
+          
+          
 
           {/* Highlighted Login Button */}
           <Link

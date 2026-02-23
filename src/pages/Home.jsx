@@ -12,7 +12,7 @@ function Home({ Name, CollegeName }) {
       <div className="font-sans">
 
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-indigo-700 via-blue-700 to-indigo-900 text-white py-24">
+        <section className="bg-gradient-to-r from-indigo-700 via-red-700 to-indigo-900 text-white py-24">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center">
             Welcome to Quiz
           </h1>
